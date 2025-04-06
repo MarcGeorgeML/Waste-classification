@@ -212,7 +212,7 @@ Run Waste-classification using the following command:
 
 ##  Acknowledgments
 
-- I thank user:tims-exe for contributing to the project
+- I thank [@tims-exe](https://github.com/tims-exe) for contributing to the project
 - dataset link: https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification
 
 ---
