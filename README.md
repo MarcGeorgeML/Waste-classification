@@ -142,7 +142,7 @@ Install Waste-classification using one of the following methods:
 **Using `pip`** &nbsp; [<img align="center" src="" />]()
 
 ```sh
-❯ echo 'pip install -r requirements.txt'
+'pip install -r requirements.txt'
 ```
 
 
@@ -153,7 +153,7 @@ Run Waste-classification using the following command:
 **Using `pip`** &nbsp; [<img align="center" src="" />]()
 
 ```sh
-❯ echo 'jupyter notebook model.ipynb'
+'jupyter notebook model.ipynb'
 ```
 
 
